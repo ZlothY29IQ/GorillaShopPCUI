@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GorillaTagModTemplateProject", "GShop PCUI\GorillaTagModTemplateProject.csproj", "{AFA38EAA-E761-467D-B107-2FFB612A9034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA38EAA-E761-467D-B107-2FFB612A9034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA38EAA-E761-467D-B107-2FFB612A9034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA38EAA-E761-467D-B107-2FFB612A9034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA38EAA-E761-467D-B107-2FFB612A9034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
