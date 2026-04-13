@@ -29,7 +29,7 @@ public class Plugin : BaseUnityPlugin
 
     private Rect windowRect;
 
-    private void Start() => CosmeticsV2Spawner_Dirty.OnPostInstantiateAllPrefabs2 += CosmeticsLoaded;
+    private void Start() => CosmeticsV2Spawner_Dirty.OnPostInstantiateAllPrefabs += CosmeticsLoaded;
 
     private void Update()
     {
